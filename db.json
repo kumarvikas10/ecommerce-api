@@ -14,7 +14,7 @@
       "img": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg",
       "description": "A Iphone Mobile produced by apple brand",
       "price": 70000,
-      "rating": 4.5
+      "rating": 5
     },
     {
       "productId": 3,
@@ -22,7 +22,7 @@
       "img": "https://rukminim2.flixcart.com/image/800/960/ku2zjww0/t-shirt/b/s/d/xl-ausk056-ausk-original-imag7adyqxrh3q2y.jpeg",
       "description": "A White and Black Combination medium size t-shirt",
       "price": 799,
-      "rating": 4
+      "rating": 3
     }
   ],
   "profile": {
