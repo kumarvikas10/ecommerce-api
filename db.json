@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "name": "Titan Watch",
+      "description": "A golden watch of titan",
+      "price": 5400,
+      "rating": 4,
+    },
+    {
+      "productId": 2,
+      "name": "Iphone 12 pro",
+      "description": "A Iphone Mobile produced by apple brand",
+      "price": 70000,
+      "rating": 4.5,
+    },
+    {
+      "productId": 3,
+      "name": "T-shirt",
+      "description": "A White and Black Combination medium size t-shirt",
+      "price": 799,
+      "rating": 4,
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
