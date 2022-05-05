@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "productId": 1,
+      "id": 1,
       "name": "Titan Watch",
       "img": "https://staticimg.titan.co.in/Titan/Catalog/1584YM02_2.jpg",
       "description": "A golden watch of titan",
@@ -9,7 +9,7 @@
       "rating": 4
     },
     {
-      "productId": 2,
+      "id": 2,
       "name": "Iphone 12 pro",
       "img": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg",
       "description": "A Iphone Mobile produced by apple brand",
@@ -17,7 +17,7 @@
       "rating": 5
     },
     {
-      "productId": 3,
+      "id": 3,
       "name": "T-shirt",
       "img": "https://rukminim2.flixcart.com/image/800/960/ku2zjww0/t-shirt/b/s/d/xl-ausk056-ausk-original-imag7adyqxrh3q2y.jpeg",
       "description": "A White and Black Combination medium size t-shirt",
