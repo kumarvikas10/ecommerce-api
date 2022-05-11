@@ -10,19 +10,91 @@
     },
     {
       "id": "2",
-      "name": "Iphone 12 pro",
-      "img": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg",
-      "description": "A Iphone Mobile produced by apple brand",
-      "price": 70000,
-      "rating": 5
+      "name": "Mast & Harbour",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15507922/2021/12/22/b1986915-1b5a-4a66-82d2-282d97e2014a1640168086145-Mast--Harbour-Men-Jackets-8741640168085459-1.jpg",
+      "description": "Men Blue Pure Cotton Denim Jacket With Ripped Detail",
+      "price": 1014,
+      "rating": 3
     },
     {
       "id": "3",
-      "name": "T-shirt",
-      "img": "https://rukminim2.flixcart.com/image/800/960/ku2zjww0/t-shirt/b/s/d/xl-ausk056-ausk-original-imag7adyqxrh3q2y.jpeg",
-      "description": "A White and Black Combination medium size t-shirt",
+      "name": "House of Pataudi",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7441172/2018/11/13/4af04aef-a972-4ca8-8bbf-b1e9a42c25531542106597602-House-of-Pataudi-Men-White--Grey-Printed-Straight-Kurta-1715-1.jpg",
+      "description": "Men White & Grey Printed Straight Kurta",
+      "price": 1869,
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "name": "VAN HEUSEN DENIM LABS",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17687098/2022/3/31/4aa2978b-100c-4b3f-9473-280f1ab74ea41648703340900VANHEUSENDENIMLABSMenNavyBlueSlimFitJeans1.jpg",
+      "description": "Men Navy Blue Slim Fit Jeans",
+      "price": 2199,
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "name": "H&M",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/16849250/2022/1/21/9b11243b-b800-4072-bc09-2ee6bf1572921642749266802RegularFitSweatshirtshorts1.jpg",
+      "description": "Men Blue Regular Fit Sweatshirt shorts",
       "price": 799,
+      "rating": 4
+    },
+    {
+      "id": "6",
+      "name": "U.S. Polo Assn.",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10331501/2020/3/18/d4d07c60-88d9-43d9-aa78-9cc7712816321584508934272-US-Polo-Assn-Men-White-Colourblocked-Sneakers-84015845089331-1.jpg",
+      "description": "Men White & Grey Colourblocked Sneakers",
+      "price": 1799,
+      "rating": 5
+    },
+    {
+      "id": "7",
+      "name": "Puma",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11334662/2020/5/22/c479216c-0148-4c8b-b6a3-260d11a83e8b1590152994963SportsSandalsPumaUnisex1.jpg",
+      "description": "Unisex Blue Galaxy Comfort Sandals",
+      "price": 809,
       "rating": 3
+    },
+    {
+      "id": "8",
+      "name": "Nike",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13328040/2021/1/25/87bf0105-9b18-400f-9272-d9885238a82c1611567680803-Nike-MC-Trainer-Mens-Training-Shoe-951611567679209-1.jpg",
+      "description": "Men Black Mesh MC Training Shoes",  
+      "price": 4945,
+      "rating": 4
+    },
+    {
+      "id": "9",
+      "name": "Allen Solly",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13733706/2021/5/27/da7fd141-ed5e-4238-8dfd-752a0b7901ab1622089508836-Allen-Solly-Men-Wallets-4411622089508551-1.jpg",
+      "description": "Men Black Self Striped Leather Two Fold Wallet",
+      "price": 499,
+      "rating": 3
+    },
+    {
+      "id": "10",
+      "name": "Louis Philippe",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/9658275/2019/5/29/6e9e04d1-e27c-448b-8c17-77ca76b618c41559113785743-Louis-Philippe-Men-Belts-2131559113784925-1.jpg",
+      "description": "Men Black & Brown Textured Reversible Leather Belt",
+      "price": 1099,
+      "rating": 4
+    },
+    {
+      "id": "11",
+      "name": "Denver",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10339515/2021/2/15/6fb2fff4-7798-4dbd-82b3-33b51bc5bb971613389076756-Denver-Men-Set-of-3-Sporting-Club-Rider-Imperial--Hamilton-D-1.jpg",
+      "description": "Men Set of 3 Deodorants",
+      "price": 487,
+      "rating": 3
+    },
+    {
+      "id": "12",
+      "name": "Philips",
+      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14487068/2021/10/11/21db8f9b-753b-4f3f-8e1e-be2d5f0787511633932455455-Philips-Blue-Skin-friendly-Beard-Trimmer---DuraPower-Technol-2.jpg",
+      "description": "Blue Skin-friendly Beard Trimmer - DuraPower Technology BT1232/15",
+      "price": 897,
+      "rating": 4
     }
   ],
   "profile": {
