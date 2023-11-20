@@ -97,7 +97,7 @@
       "rating": 4
     }
   ],
- "location": [{"Sector 45}, {sector 43}],
+ "location": [{"micro": "Sector 45}, {"micro": "sector 43"}],
   "profile": {
     "name": "typicode"
   }
